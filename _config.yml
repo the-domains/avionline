@@ -1,0 +1,20 @@
+layout_spectrum: 0.3427485
+typography_spectrum: 0.6900033
+color:
+  saturation: 0.05733366
+  lightness: 0.2631579
+  brandStrength: 0.9947402
+  brandColors:
+    - '#FFFFFF'
+    - '#808080'
+    - '#F6992A'
+    - '#BCBCBC'
+    - '#404040'
+  rhythmicContrast: 0.8531246
+name: Avionline
+content: []
+title: avionline
+description: creating value for a mobile world
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/66edc0c4-b270-49dc-a296-c11ddc4d8fba.png
+github: true
